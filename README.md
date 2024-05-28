@@ -3,7 +3,7 @@ This is the platform where the users just need to type in the text regarding whi
 
 
 
-## AidumGenerator App (EmailGpt)
+##  EmailGpt App
 
 ## Table of Contents
 
